@@ -1,0 +1,39 @@
+﻿<Page x:Class="Arhiv.Pages.UserPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Arhiv.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="UserPage" IsVisibleChanged="Page_IsVisibleChanged">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="250"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid IsReadOnly="True" AutoGenerateColumns="False" x:Name="DGridZayavka" Margin="0,36,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Тип" Binding="{Binding type}"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding status}"/>
+                <DataGridTextColumn Header="Дата" Binding="{Binding date}"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Удалить" Background="Red" x:Name="BtnDel" Click="BtnDel_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Вы: " FontSize="20" Name="LabelFSP" Foreground="MediumPurple" Height="40" VerticalAlignment="Top"/>
+        <TextBlock Text="Выбирите заявку" FontSize="20" Height="50" Grid.Column="1" HorizontalAlignment="Center" Margin="0,0,0,100"/>
+        <ComboBox Grid.Row="0" Height="40" Text="{Binding type}" Width="200" Grid.Column="1" HorizontalAlignment="Center" Margin="0,0,0,50" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem>Справка о земельном участке</ComboBoxItem>
+            <ComboBoxItem>Спрвка о заработной плате</ComboBoxItem>
+        </ComboBox>
+        <Button Content="Подать заявку" Name="AddZayavka" Click="AddZayavka_Click" Width="200" Height="50" Background="GreenYellow" Grid.Column="1" HorizontalAlignment="Center" Margin="0,0,0,-70"/>
+        <Button Width="100" Height="30" Content="Выйти" x:Name="BtnOut" Click="BtnOut_Click" Grid.Column="1" VerticalAlignment="Top" Margin="125,10,20,0"/>
+    </Grid>
+</Page>

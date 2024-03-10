@@ -1,0 +1,94 @@
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\bin\Debug\Arhiv.exe.config
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\bin\Debug\Arhiv.exe
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\bin\Debug\Arhiv.pdb
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\bin\Debug\EntityFramework.dll
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\bin\Debug\EntityFramework.xml
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv.csproj.AssemblyReference.cache
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\MainWindow.g.cs
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\App.g.cs
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv_Content.g.cs
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv_MarkupCompile.cache
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv_MarkupCompile.lref
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\MainWindow.baml
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Pages\AuthPage.baml
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv.g.resources
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv.Properties.Resources.resources
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv.csproj.GenerateResource.cache
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv.csproj.CoreCompileInputs.cache
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv.csproj.CopyComplete
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv.exe
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Arhiv.pdb
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Pages\UserPage.g.cs
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Pages\UserPage.baml
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Pages\RegPage.g.cs
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Pages\RegPage.baml
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\dimon.KOV\OneDrive\Рабочий стол\Maksos\Arhiv\Arhiv\obj\Debug\Pages\AdminPage.baml
+C:\Users\Maks\Desktop\Arhiv\Arhiv\bin\Debug\Arhiv.exe.config
+C:\Users\Maks\Desktop\Arhiv\Arhiv\bin\Debug\Arhiv.exe
+C:\Users\Maks\Desktop\Arhiv\Arhiv\bin\Debug\Arhiv.pdb
+C:\Users\Maks\Desktop\Arhiv\Arhiv\bin\Debug\EntityFramework.dll
+C:\Users\Maks\Desktop\Arhiv\Arhiv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maks\Desktop\Arhiv\Arhiv\bin\Debug\EntityFramework.xml
+C:\Users\Maks\Desktop\Arhiv\Arhiv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maks\Desktop\Arhiv\Arhiv\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv.csproj.AssemblyReference.cache
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\MainWindow.g.cs
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Pages\RegPage.g.cs
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Pages\UserPage.g.cs
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\App.g.cs
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv_Content.g.cs
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv_MarkupCompile.cache
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv_MarkupCompile.lref
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\MainWindow.baml
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Pages\AdminPage.baml
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Pages\AuthPage.baml
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Pages\RegPage.baml
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Pages\UserPage.baml
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv.g.resources
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv.Properties.Resources.resources
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv.csproj.GenerateResource.cache
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv.csproj.CopyComplete
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv.exe
+C:\Users\Maks\Desktop\Arhiv\Arhiv\obj\Debug\Arhiv.pdb
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.csproj.AssemblyReference.cache
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\MainWindow.g.cs
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Pages\RegPage.g.cs
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Pages\UserPage.g.cs
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\App.g.cs
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv_Content.g.cs
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv_MarkupCompile.cache
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv_MarkupCompile.lref
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.exe
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.pdb
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\Arhiv.exe.config
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\Arhiv.exe
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\Arhiv.pdb
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\EntityFramework.dll
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\EntityFramework.xml
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\MainWindow.baml
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Pages\AdminPage.baml
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Pages\AuthPage.baml
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Pages\RegPage.baml
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Pages\UserPage.baml
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.g.resources
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.Properties.Resources.resources
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.csproj.GenerateResource.cache
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.csproj.CoreCompileInputs.cache
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.csproj.CopyComplete
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\Arhiv.exe.manifest
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\bin\Debug\Arhiv.application
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.exe.manifest
+C:\Users\Maks\OneDrive\Рабочий стол\документы\arhiv\Arhiv\obj\Debug\Arhiv.application
